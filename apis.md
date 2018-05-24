@@ -1,17 +1,14 @@
 ---
 name: Aspose
 x-slug: aspose
-description: Aspose aims to provide developers with top quality file format APIs complemented
-  by fast and reliable technical support. We listen closely to developers worldwide
-  and produce solutions that meet their complex needs. Aspose save developers programming
-  with file formats time that they can put to better use meeting their organizations&rsquo;
-  objectives.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1865_logo.jpg
+description: .NET Java Cloud SharePoint Android SSRS and JasperReports file format
+  APIs for developers. Integrate in any enterprise level web desktop and mobile application
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1865-aspose.jpg
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "59913"
 tags: Aspose
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aspose/master/_listings/aspose/apis.md
 specificationVersion: "0.14"
 apis: []
@@ -22,6 +19,8 @@ x-common:
   url: http://www.aspose.com/community/blogs/default.aspx
 - type: x-blog-rss
   url: http://www.aspose.com/community/blogs/rss.aspx
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/aspose
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/aspose
 - type: x-developer
