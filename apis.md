@@ -1,47 +1,17 @@
 ---
-name: Aspose
-x-slug: aspose
-description: .NET Java Cloud SharePoint Android SSRS and JasperReports file format
-  APIs for developers. Integrate in any enterprise level web desktop and mobile application
-image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1865-aspose.jpg
-x-kinRank: "8"
-x-alexaRank: "59913"
-tags: Aspose
-created: "2018-05-24"
-modified: "2018-05-24"
-url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aspose/master/_listings/aspose/apis.md
+name: Streadata.io API Gallery - Aspose
+description: This is a repository of aspose APIs, self-contained as a Github repository,
+  with HTML and YAML representations of the APIs and their surrounding operations.
+image: http://template.streamdata.gallery/assets/aspose.png
+created: "2018-02-24"
+modified: "2018-06-20"
+url: http://aspose.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
-x-common:
-- type: x-base
-  url: http://api.aspose.com/
-- type: x-blog
-  url: http://www.aspose.com/community/blogs/default.aspx
-- type: x-blog-rss
-  url: http://www.aspose.com/community/blogs/rss.aspx
-- type: x-crunchbase
-  url: https://crunchbase.com/organization/aspose
-- type: x-crunchbase
-  url: http://www.crunchbase.com/company/aspose
-- type: x-developer
-  url: http://www.aspose.com/cloud/total-api.aspx
-- type: x-forum
-  url: http://www.aspose.com/community/forums/default.aspx
-- type: x-github
-  url: https://github.com/aspose
-- type: x-pricing
-  url: http://www.aspose.com/purchase/pricing-info-step-1-of-4.aspx
-- type: x-privacy
-  url: http://www.aspose.com/corporate/legal/privacy-policy.aspx
-- type: x-terms-of-service
-  url: http://www.aspose.com/corporate/legal/terms-of-use.aspx
-- type: x-twitter
-  url: https://twitter.com/Aspose
-- type: x-videos
-  url: http://www.youtube.com/user/asposevideo
-- type: x-website
-  url: http://www.aspose.com
-include: []
+tags: Aspose
+include:
+- name: Aspose
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aspose/master/_listings/aspose/apis.yaml
 maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
